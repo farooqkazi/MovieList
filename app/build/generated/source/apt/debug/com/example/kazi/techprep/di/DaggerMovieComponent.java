@@ -1,8 +1,8 @@
 package com.example.kazi.techprep.di;
 
-import com.example.kazi.techprep.api.Interactor;
 import com.example.kazi.techprep.MainActivity;
 import com.example.kazi.techprep.MainActivity_MembersInjector;
+import com.example.kazi.techprep.api.Interactor;
 import com.example.kazi.techprep.presenter.MoviePresenter;
 import com.example.kazi.techprep.presenter.MoviePresenter_Factory;
 import dagger.MembersInjector;

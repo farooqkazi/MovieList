@@ -1,7 +1,0 @@
-#Mon Jun 05 17:25:50 IST 2017
-base.0=/Users/Kazi/Desktop/TechPrep/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d94e2bd2a50a15eeca9513647d62984e4672f9e8
-renamed.1=classes2.dex
-renamed.0=classes.dex
-file.1=/Users/Kazi/Desktop/TechPrep/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_42a6422347d7407776b503976d2084e72fbbce1e/classes.dex
-base.1=/Users/Kazi/Desktop/TechPrep/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_42a6422347d7407776b503976d2084e72fbbce1e
-file.0=/Users/Kazi/Desktop/TechPrep/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d94e2bd2a50a15eeca9513647d62984e4672f9e8/classes.dex
