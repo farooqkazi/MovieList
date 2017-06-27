@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/Kazi/Desktop/TechPrep/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/Kazi/Desktop/TechPrep/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/Kazi/Desktop/TechPrep/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher_round.png",
+        "source": "/Users/Kazi/Desktop/TechPrep/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    }
+]

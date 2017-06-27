@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/Users/Kazi/Desktop/TechPrep/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/Users/Kazi/.android/build-cache/d6483a43d4357e71fa07b21d05f5b7a434585c55/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/Kazi/Desktop/TechPrep/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/Users/Kazi/.android/build-cache/d6483a43d4357e71fa07b21d05f5b7a434585c55/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/Kazi/Desktop/TechPrep/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/Users/Kazi/.android/build-cache/d6483a43d4357e71fa07b21d05f5b7a434585c55/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/Kazi/Desktop/TechPrep/app/build/intermediates/res/merged/debug/color-v23/design_tint_password_toggle.xml",
+        "source": "/Users/Kazi/.android/build-cache/da346d2e925e3971026525a2c59d62c1f44d87ec/output/res/color-v23/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/Users/Kazi/Desktop/TechPrep/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/Users/Kazi/.android/build-cache/d6483a43d4357e71fa07b21d05f5b7a434585c55/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/Users/Kazi/Desktop/TechPrep/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/Users/Kazi/.android/build-cache/d6483a43d4357e71fa07b21d05f5b7a434585c55/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/Kazi/Desktop/TechPrep/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/Kazi/.android/build-cache/d6483a43d4357e71fa07b21d05f5b7a434585c55/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/Kazi/Desktop/TechPrep/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/Kazi/.android/build-cache/d6483a43d4357e71fa07b21d05f5b7a434585c55/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/Users/Kazi/Desktop/TechPrep/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/Users/Kazi/.android/build-cache/d6483a43d4357e71fa07b21d05f5b7a434585c55/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/Kazi/Desktop/TechPrep/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/Users/Kazi/.android/build-cache/d6483a43d4357e71fa07b21d05f5b7a434585c55/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/Kazi/Desktop/TechPrep/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/Users/Kazi/.android/build-cache/d6483a43d4357e71fa07b21d05f5b7a434585c55/output/res/color-v23/abc_tint_seek_thumb.xml"
+    }
+]
